@@ -1,0 +1,12 @@
+.c-user-card{
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: aliceblue;
+    width: 250px;
+    padding: 8px;
+    cursor: pointer;
+}
+
+.c-user-card:hover{
+    background-color: azure;
+}
